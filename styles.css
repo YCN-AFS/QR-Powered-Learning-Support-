@@ -95,10 +95,11 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 8rem 5% 5rem;
-    background: linear-gradient(135deg, #f6f9fc 0%, #e9f2f9 100%), url('http://thcstruongconggiai.edu.vn/upload/104828/fck/files/DSC00672.JPG');
-    background-size: cover;
+    background: linear-gradient(135deg, rgba(246, 249, 252, 0.8) 0%, rgba(233, 242, 249, 0.8) 100%), 
+                url('image/background1.jpg') no-repeat center/cover;
     min-height: 100vh;
 }
+
 
 .hero-content {
     flex: 1;
